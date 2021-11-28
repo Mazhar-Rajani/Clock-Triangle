@@ -1,4 +1,1 @@
-# Simple clock made in unity
-
-https://user-images.githubusercontent.com/16307601/143766448-4feabbcc-a4d5-43fb-beb0-fb5cabcb895d.mp4
-
+https://user-images.githubusercontent.com/16307601/143766589-61e626bb-c3fe-46cf-a4b3-efe21b9e4eda.mp4
